@@ -13,7 +13,7 @@ const IconInput = ({
   size,
   placeholder,
 }) => {
-  return 'TODO';
+  return <Icon></Icon>;
 };
 
 export default IconInput;
